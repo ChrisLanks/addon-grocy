@@ -1,4 +1,3 @@
-
 # Home Assistant Community Add-on: Grocy
 
 [![GitHub Release][releases-shield]][releases]
